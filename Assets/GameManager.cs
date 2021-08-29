@@ -11,8 +11,6 @@ public class GameManager : MonoBehaviour
     public List<Sprite> skinSpriteBlack;
     public List<Sprite> skinSpriteNormal;
 
-    private int i = 0;
-
     private void Start()
     {
     }
